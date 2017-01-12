@@ -2,3 +2,4 @@ terraform.tfvars
 vsts.tfvars
 *.tfstate
 config
+*.backup
