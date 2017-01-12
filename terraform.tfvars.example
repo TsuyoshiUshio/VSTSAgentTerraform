@@ -1,0 +1,7 @@
+default_user = "azureuser"
+default_password = "{OS PASSWORD HERE}"
+subscription_id = "{YOUR SUBSCRIPTION ID HERE}"
+client_id       = "{YOUR CLIENT ID HERE}"
+client_secret   = "{YOUR CLIENT SECRET HERE}"
+tenant_id       = "{YOUR TENANT ID HERE}"
+vm_strage_account_name = "{STORAGE ACCOUNT NAME HERE}"

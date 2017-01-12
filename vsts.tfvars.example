@@ -1,0 +1,5 @@
+vsts_account_name = "{YOUR VSTS ACCOUNT NAME HERE}"
+vsts_personal_access_token = "{VSTS PERSONAL ACCESS TOKEN HERE}"
+vsts_agent_name = "myagent"
+vsts_agent_pool_name = "Default"
+
